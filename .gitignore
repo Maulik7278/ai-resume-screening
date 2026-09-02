@@ -1,0 +1,16 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.DS_Store
+
+# Real candidate data and generated output — keep out of version control.
+resumes/*.pdf
+output/*.json
+!output/.gitkeep
+
+# Any cache files
+*.cache

@@ -1,0 +1,7 @@
+pydantic>=2.6,<3
+cohere>=7.0,<8
+pypdf>=4.0
+requests>=2.31
+python-dotenv>=1.0
+pytest>=8.0
+pytest-mock>=3.12
